@@ -1,0 +1,27 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Frame name="GuildMotDAddonFrame" virtual="true">
+        <Scripts>
+            <OnLoad>
+                GuildMotDAddon = ...
+            </OnLoad>
+        </Scripts>
+        <Size>
+            <AbsDimension x="300" y="200"/>
+        </Size>
+        <Anchors>
+            <Anchor point="CENTER"/>
+        </Anchors>
+        <Backdrop bgFile="Interface\DialogFrame\UI-DialogBox-Background" edgeFile="Interface\DialogFrame\UI-DialogBox-Border" tile="true" edgeSize="16" tileEdge="true" tileSize="32"/>
+        <TitleRegion>
+            <Size>
+                <AbsDimension x="300" y="25"/>
+            </Size>
+            <Anchors>
+                <Anchor point="TOP"/>
+            </Anchors>
+            <Text justifyH="CENTER">
+                <FontString name="$parentTitle" inherits="GameFontNormal" text="Gildennachricht des Tages"/>
+            </Text>
+        </TitleRegion>
+    </Frame>
+</Ui>

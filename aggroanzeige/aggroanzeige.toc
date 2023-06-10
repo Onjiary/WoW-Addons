@@ -1,0 +1,7 @@
+## Interface: 100100
+## Title: Aggroanzeige
+## Notes: Dies ist mein erstes Addon was zum Experimentieren war. Version 2.1
+## Author: Onjiary
+## Version: 2.1
+
+aggroanzeige.lua

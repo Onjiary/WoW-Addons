@@ -1,0 +1,8 @@
+## Interface: 100100
+## Title: Gildenchat
+## Notes: Gildenchat
+## Author: Onjiary
+## Version: 1.0
+
+gildenchat.lua
+gildenchat.xml
