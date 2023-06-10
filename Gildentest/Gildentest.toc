@@ -1,0 +1,7 @@
+## Interface: 100100
+## Title: Gildentest
+## Notes: Gildentest
+## Author: Onjiary
+## Version: 0.0.1
+
+Gildentest.lua
