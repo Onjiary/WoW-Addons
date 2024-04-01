@@ -1,5 +1,5 @@
 ## Interface: 1026
-## Title: PlayerUI
+## Title: MyUI
 ## Version: 0.0.1
 ## Notes: PlayerUI addon
 ## Author: Onjiary
@@ -7,4 +7,4 @@
 
 
 
-PlayerUI.lua
+OnjiUI.lua
