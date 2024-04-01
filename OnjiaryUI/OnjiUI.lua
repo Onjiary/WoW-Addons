@@ -1,1 +1,1 @@
-print("Herzlich Willkommen bei PlayerUI");
+print("Willkommen");

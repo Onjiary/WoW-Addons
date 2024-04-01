@@ -3,8 +3,5 @@
 ## Version: 0.0.1
 ## Notes: PlayerUI addon
 ## Author: Onjiary
-## DefaultState: enabled
-
-
 
 OnjiUI.lua
