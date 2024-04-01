@@ -1,0 +1,10 @@
+## Interface: 1026
+## Title: PlayerUI
+## Version: 0.0.1
+## Notes: PlayerUI addon
+## Author: Onjiary
+## DefaultState: enabled
+
+
+
+PlayerUI.lua
